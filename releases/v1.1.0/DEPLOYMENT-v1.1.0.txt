@@ -1,0 +1,11 @@
+FC-SMP Server Pack v1.1.0
+Java ZIP: FC-SMP-Server-Pack-Java-v1.1.0.zip
+SHA-1: 76795af302478ba8dfb65ef69828f2fd0b75837f
+SHA-256: 1eab5a15aa1e264f1304d4c4d9327bf230d917875be386783a8f87c5e265a432
+resource-pack-id: 38c201c9-48de-4efd-a1ca-6eb2755f7689
+
+Bedrock pack: FC-SMP-Server-Pack-Bedrock-v1.1.0.mcpack
+SHA-256: f0a9c6a8cf7ca92c39a81973ba217efbc2c5af7bb59d0fbbd8bb32e623badd61
+
+Java URL target: https://pack.fc-smp.online/FC-SMP-Server-Pack-Java-v1.1.0.zip
+Geyser mappings: Geyser/fc_staff_toolkit.json and Geyser/fc_smp_gui_icons.json

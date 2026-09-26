@@ -1,0 +1,5 @@
+﻿AUDIT PASS
+Java item definitions checked: 25
+Bedrock atlas entries checked: 14
+Geyser mapping files checked: 2
+FCPoseStudio Java-only exception documented and intentionally excluded from Bedrock.
