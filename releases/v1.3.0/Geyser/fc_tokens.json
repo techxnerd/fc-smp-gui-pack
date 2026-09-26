@@ -1,0 +1,111 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:gold_nugget": [
+      {
+        "type": "legacy",
+        "custom_model_data": 200.0,
+        "bedrock_identifier": "fcsmp:fc_token",
+        "display_name": "FC Token",
+        "bedrock_options": {
+          "icon": "fcsmp:fc_token"
+        }
+      }
+    ],
+    "minecraft:netherite_pickaxe": [
+      {
+        "type": "legacy",
+        "custom_model_data": 201.0,
+        "bedrock_identifier": "fcsmp:drill",
+        "display_name": "FC-Drill",
+        "bedrock_options": {
+          "icon": "fcsmp:drill"
+        }
+      },
+      {
+        "type": "legacy",
+        "custom_model_data": 208.0,
+        "bedrock_identifier": "fcsmp:fortune_pickaxe",
+        "display_name": "FC-Fortune Pickaxe",
+        "bedrock_options": {
+          "icon": "fcsmp:fortune_pickaxe"
+        }
+      },
+      {
+        "type": "legacy",
+        "custom_model_data": 209.0,
+        "bedrock_identifier": "fcsmp:silk_pickaxe",
+        "display_name": "FC-Silk Pickaxe",
+        "bedrock_options": {
+          "icon": "fcsmp:silk_pickaxe"
+        }
+      }
+    ],
+    "minecraft:netherite_axe": [
+      {
+        "type": "legacy",
+        "custom_model_data": 202.0,
+        "bedrock_identifier": "fcsmp:chainsaw",
+        "display_name": "FC-Chainsaw",
+        "bedrock_options": {
+          "icon": "fcsmp:chainsaw"
+        }
+      }
+    ],
+    "minecraft:golden_axe": [
+      {
+        "type": "legacy",
+        "custom_model_data": 203.0,
+        "bedrock_identifier": "fcsmp:sell_axe",
+        "display_name": "FC-SellAxe",
+        "bedrock_options": {
+          "icon": "fcsmp:sell_axe"
+        }
+      }
+    ],
+    "minecraft:netherite_helmet": [
+      {
+        "type": "legacy",
+        "custom_model_data": 204.0,
+        "bedrock_identifier": "fcsmp:netherite_helmet",
+        "display_name": "FC-Netherite Helmet",
+        "bedrock_options": {
+          "icon": "fcsmp:netherite_helmet"
+        }
+      }
+    ],
+    "minecraft:netherite_chestplate": [
+      {
+        "type": "legacy",
+        "custom_model_data": 205.0,
+        "bedrock_identifier": "fcsmp:netherite_chestplate",
+        "display_name": "FC-Netherite Chestplate",
+        "bedrock_options": {
+          "icon": "fcsmp:netherite_chestplate"
+        }
+      }
+    ],
+    "minecraft:netherite_leggings": [
+      {
+        "type": "legacy",
+        "custom_model_data": 206.0,
+        "bedrock_identifier": "fcsmp:netherite_leggings",
+        "display_name": "FC-Netherite Leggings",
+        "bedrock_options": {
+          "icon": "fcsmp:netherite_leggings"
+        }
+      }
+    ],
+    "minecraft:netherite_boots": [
+      {
+        "type": "legacy",
+        "custom_model_data": 207.0,
+        "bedrock_identifier": "fcsmp:netherite_boots",
+        "display_name": "FC-Netherite Boots",
+        "bedrock_options": {
+          "icon": "fcsmp:netherite_boots"
+        }
+      }
+    ]
+  }
+}

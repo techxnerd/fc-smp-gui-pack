@@ -1,0 +1,11 @@
+FC-SMP Server Pack v1.3.0
+Java files: 168 | unpacked bytes: 97469
+Bedrock files: 53 | unpacked bytes: 27035
+Coverage: Pose Studio 0.7.1 (Java), Staff Toolkit, GUI pagination, Faction/War/Elite/Vote crates + keys, FC Token coin + 9 TokenShop products, Faction Core/Obsidian + 9 Factions GUI icons, plus 6 Tutorial icons.
+Optimization: Rollback Wand Bedrock icon normalized 2048x2048 -> 16x16; Pose particle metadata added.
+Vote crate/key visuals are enabled with backward-compatible PDC validation; legacy Vote Keys remain valid and normalize to the current visual on interaction/pickup.
+FC Tokens use CMD hooks; Factions uses native item-model hooks with Geyser definition parity. Tutorial now uses 6 native item-model hooks with Geyser definition parity; no dead assets added.
+Java SHA-1: 8d48bc28403f193e54ff3e1cd325b42221a19f3f
+Java SHA-256: 387745c38ca0e19343ceeabd8fd80dfcc1361a05321cc678d04f98ee05161f03
+resource-pack-id: bd7b6789-27df-5491-84e6-397c26c820bf
+Bedrock SHA-256: ccdd3e18237ad2ed39e295e837579a92b0d3eb1784979e1c36239b39e0396978

@@ -1,0 +1,137 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:recovery_compass": [
+      {
+        "type": "definition",
+        "model": "fcsmp:staff/investigator",
+        "bedrock_identifier": "fcsmp:investigator",
+        "display_name": "Investigator",
+        "bedrock_options": {
+          "icon": "fcsmp:investigator"
+        }
+      }
+    ],
+    "minecraft:amethyst_shard": [
+      {
+        "type": "definition",
+        "model": "fcsmp:staff/freeze",
+        "bedrock_identifier": "fcsmp:freeze",
+        "display_name": "Freeze Ray",
+        "bedrock_options": {
+          "icon": "fcsmp:freeze"
+        }
+      }
+    ],
+    "minecraft:compass": [
+      {
+        "type": "definition",
+        "model": "fcsmp:staff/trail",
+        "bedrock_identifier": "fcsmp:trail",
+        "display_name": "Trail of Truth",
+        "bedrock_options": {
+          "icon": "fcsmp:trail"
+        }
+      }
+    ],
+    "minecraft:spyglass": [
+      {
+        "type": "definition",
+        "model": "fcsmp:staff/loot",
+        "bedrock_identifier": "fcsmp:loot",
+        "display_name": "Loot Detective",
+        "bedrock_options": {
+          "icon": "fcsmp:loot"
+        }
+      }
+    ],
+    "minecraft:clock": [
+      {
+        "type": "definition",
+        "model": "fcsmp:staff/dupe",
+        "bedrock_identifier": "fcsmp:dupe",
+        "display_name": "Dupe Detector",
+        "bedrock_options": {
+          "icon": "fcsmp:dupe"
+        }
+      }
+    ],
+    "minecraft:ender_eye": [
+      {
+        "type": "definition",
+        "model": "fcsmp:staff/reality",
+        "bedrock_identifier": "fcsmp:reality",
+        "display_name": "Reality Check",
+        "bedrock_options": {
+          "icon": "fcsmp:reality"
+        }
+      }
+    ],
+    "minecraft:blaze_rod": [
+      {
+        "type": "definition",
+        "model": "fcsmp:staff/rollback",
+        "bedrock_identifier": "fcsmp:rollback",
+        "display_name": "Rollback Wand",
+        "bedrock_options": {
+          "icon": "fcsmp:rollback"
+        }
+      }
+    ],
+    "minecraft:mace": [
+      {
+        "type": "definition",
+        "model": "fcsmp:staff/banhammer",
+        "bedrock_identifier": "fcsmp:banhammer",
+        "display_name": "BAN HAMMER",
+        "bedrock_options": {
+          "icon": "fcsmp:banhammer"
+        }
+      }
+    ],
+    "minecraft:bread": [
+      {
+        "type": "definition",
+        "model": "fcsmp:staff/bonk",
+        "bedrock_identifier": "fcsmp:bonk",
+        "display_name": "Administrative Baguette",
+        "bedrock_options": {
+          "icon": "fcsmp:bonk"
+        }
+      }
+    ],
+    "minecraft:firework_rocket": [
+      {
+        "type": "definition",
+        "model": "fcsmp:staff/confetti",
+        "bedrock_identifier": "fcsmp:confetti",
+        "display_name": "Confetti Cannon",
+        "bedrock_options": {
+          "icon": "fcsmp:confetti"
+        }
+      }
+    ],
+    "minecraft:nether_star": [
+      {
+        "type": "definition",
+        "model": "fcsmp:staff/roulette",
+        "bedrock_identifier": "fcsmp:roulette",
+        "display_name": "Admin Roulette",
+        "bedrock_options": {
+          "icon": "fcsmp:roulette"
+        }
+      }
+    ],
+    "minecraft:barrier": [
+      {
+        "type": "definition",
+        "model": "fcsmp:staff/exit",
+        "bedrock_identifier": "fcsmp:exit",
+        "display_name": "Exit Staff Tools",
+        "bedrock_options": {
+          "icon": "fcsmp:exit"
+        }
+      }
+    ]
+  }
+}

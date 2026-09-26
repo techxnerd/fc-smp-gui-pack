@@ -1,0 +1,37 @@
+FC-SMP Server Visuals v1.3.0 - Integration Candidate
+Date: 2026-09-26
+Target: Purpur / Minecraft Java 1.21.11, with Geyser/Floodgate Bedrock parity where supported.
+Status: LOCAL INTEGRATION ACCEPTED. NOT DEPLOYED LIVE.
+
+Changed plugins:
+- FactionCrates 2.5.1 VoteVisuals
+- DohviFCTokens / TokenShop 1.2.0 Visuals
+- FCFactions 1.5.0-RC2 Visuals1
+- DohviTutorial 1.11.7 Visuals1
+
+Resource-pack coverage:
+- Pose Studio Java assets
+- Staff Toolkit
+- GUI pagination
+- Faction/War/Elite/Vote crates and keys
+- FC Token coin + 9 TokenShop products
+- Faction Core/Obsidian + 9 /f main-menu icons
+- Tutorial YES/brand/SKIP + combat/economy/countdown icons
+
+Acceptance:
+- Section 4B: 33 Geyser custom items; long soak held 20 TPS; cold restart passed.
+- Section 4C: 44 Geyser custom items; FCFactions 132/132 tests passed; cold restart passed.
+- Section 4D: 50 Geyser custom items; cold restart startup 33.180s; no targeted errors.
+- Section 4D TPS: 20.0 / 19.9 / 19.9 / 19.9.
+- Persistent spawn presentation after restart: 8 BlockDisplays / 8 ItemDisplays / 12 TextDisplays.
+- FactionCrates presentation remained 4 displays / 4 stations / 4 managed lights.
+- Java and Bedrock resource-pack builds are deterministic across repeated builds.
+
+Final pack identity:
+Java SHA-1: 8d48bc28403f193e54ff3e1cd325b42221a19f3f
+Java SHA-256: 387745c38ca0e19343ceeabd8fd80dfcc1361a05321cc678d04f98ee05161f03
+resource-pack-id: bd7b6789-27df-5491-84e6-397c26c820bf
+Bedrock SHA-256: ccdd3e18237ad2ed39e295e837579a92b0d3eb1784979e1c36239b39e0396978
+
+Deployment rule:
+Test server first. Install all four changed plugin JARs together with the matching Java pack, Bedrock pack, and all six Geyser custom_mappings files. Restart; verify 50 custom items, client rendering, tutorial GUI/display icons, Factions icons, TokenShop, crate visuals, logs, TPS, persistence, and Java/Bedrock behavior before live rollout.
