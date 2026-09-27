@@ -1,0 +1,54 @@
+﻿FC-SMP Server Pack v1.3.2 — Final Integration Acceptance
+Date: 2026-09-27
+Status: ACCEPTED FOR PRODUCTION
+
+IMMUTABLE JAVA PACK
+URL: https://github.com/techxnerd/fc-smp-gui-pack/releases/download/server-pack-v1.3.2/FC-SMP-Server-Pack-Java-v1.3.2.zip
+Bytes: 54385
+SHA-1: c702a1c8941862d6f94888547dd6d444a9bf25dc
+SHA-256: 1b4c5ae46b94422b4f5f6f3aa1afce89fbe439fbe64cd8e81d0c62471b8d9db2
+Resource-pack ID: f0efa043-ce00-529e-843f-99e348598d2f
+External HTTPS byte/hash fetch: PASS
+require-resource-pack=true: PASS
+
+BEDROCK / GEYSER
+Bedrock pack SHA-256: 2ee5e7b20c94b4aced5b7a90c6eb3ba547492322149ac9c749061a22533796c4
+force-resource-packs=true: PASS
+Geyser custom items registered: 50
+Geyser bind: UDP 25571
+Geyser built-in external connectiontest play.fc-smp.online:25571: PASS
+Geyser/resource-pack targeted load errors: 0
+Note: a local bedrock-protocol ping and mcsrvstat.us Bedrock query timed out from their respective sources while Geyser's own external connection test reported the endpoint online. This is retained as a diagnostic note, not hidden.
+
+LIVE PLUGIN CANDIDATES
+FactionCrates 2.5.1: PASS
+DohviFCTokens / TokenShop visuals 1.2.0: PASS
+FCFactions 1.5.0-RC2 visuals: PASS
+DohviTutorial 1.11.10: PASS
+Tutorial retains EssentialsX-owned /kit behavior: PASS
+
+LIVE STARTUP / REGRESSION
+Purpur: 1.21.11-2568
+Live startup: PASS (25.601s on final observed boot; earlier production acceptance 24.829s)
+Candidate-component targeted errors: 0
+FactionCrates displays: 4 updated, 0 spawned, 0 stale/duplicate removed
+FactionCrates presentation: 4 stations, 0 stale entities removed, 4 managed lights
+TPS: 20.0 at acceptance
+Existing Java players joined/operated successfully after deployment: PASS
+
+STATIC / OPTIMIZATION
+Java files: 134
+Bedrock files: 53
+Max texture dimension: 128x128
+Textures >256: 0
+Duplicate images: 0
+Broken model/texture references: 0
+Geyser pack mapping definitions: 49 unique IDs / 49 unique icons
+Shader-safe default: PASS (no FC Pose core entity shader override)
+
+BACKUP / RECOVERY
+PebbleHost backup recovery point verified before production rollout.
+No PC backup was created; PebbleHost remains the backup source of truth.
+
+FINAL RESULT
+v1.3.2 is accepted for FC-SMP production. The release asset bytes and hashes above are frozen. Any future pack byte change must use a new version/tag and new SHA-1/resource-pack-id as appropriate.
