@@ -1,0 +1,87 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:chest": [
+      {
+        "type": "legacy",
+        "custom_model_data": 101.0,
+        "bedrock_identifier": "fcsmp:faction_crate",
+        "display_name": "Faction Crate",
+        "bedrock_options": {
+          "icon": "fcsmp:faction_crate"
+        }
+      }
+    ],
+    "minecraft:barrel": [
+      {
+        "type": "legacy",
+        "custom_model_data": 102.0,
+        "bedrock_identifier": "fcsmp:war_crate",
+        "display_name": "War Crate",
+        "bedrock_options": {
+          "icon": "fcsmp:war_crate"
+        }
+      }
+    ],
+    "minecraft:ender_chest": [
+      {
+        "type": "legacy",
+        "custom_model_data": 103.0,
+        "bedrock_identifier": "fcsmp:elite_crate",
+        "display_name": "Elite Crate",
+        "bedrock_options": {
+          "icon": "fcsmp:elite_crate"
+        }
+      }
+    ],
+    "minecraft:tripwire_hook": [
+      {
+        "type": "legacy",
+        "custom_model_data": 111.0,
+        "bedrock_identifier": "fcsmp:faction_key",
+        "display_name": "Faction Key",
+        "bedrock_options": {
+          "icon": "fcsmp:faction_key"
+        }
+      },
+      {
+        "type": "legacy",
+        "custom_model_data": 112.0,
+        "bedrock_identifier": "fcsmp:war_key",
+        "display_name": "War Key",
+        "bedrock_options": {
+          "icon": "fcsmp:war_key"
+        }
+      },
+      {
+        "type": "legacy",
+        "custom_model_data": 113.0,
+        "bedrock_identifier": "fcsmp:elite_key",
+        "display_name": "Elite Key",
+        "bedrock_options": {
+          "icon": "fcsmp:elite_key"
+        }
+      },
+      {
+        "type": "legacy",
+        "custom_model_data": 114.0,
+        "bedrock_identifier": "fcsmp:vote_key",
+        "display_name": "Vote Key",
+        "bedrock_options": {
+          "icon": "fcsmp:vote_key"
+        }
+      }
+    ],
+    "minecraft:heart_of_the_sea": [
+      {
+        "type": "legacy",
+        "custom_model_data": 104.0,
+        "bedrock_identifier": "fcsmp:vote_crate",
+        "display_name": "Vote Crate",
+        "bedrock_options": {
+          "icon": "fcsmp:vote_crate"
+        }
+      }
+    ]
+  }
+}

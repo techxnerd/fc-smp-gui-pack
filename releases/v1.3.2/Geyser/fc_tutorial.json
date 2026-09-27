@@ -1,0 +1,71 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:lime_wool": [
+      {
+        "type": "definition",
+        "model": "fcsmp:tutorial/accept",
+        "bedrock_identifier": "fcsmp:tutorial_accept",
+        "display_name": "Tutorial - Start",
+        "bedrock_options": {
+          "icon": "fcsmp:tutorial_accept"
+        }
+      }
+    ],
+    "minecraft:nether_star": [
+      {
+        "type": "definition",
+        "model": "fcsmp:tutorial/brand",
+        "bedrock_identifier": "fcsmp:tutorial_brand",
+        "display_name": "FC-SMP Tutorial",
+        "bedrock_options": {
+          "icon": "fcsmp:tutorial_brand"
+        }
+      }
+    ],
+    "minecraft:red_wool": [
+      {
+        "type": "definition",
+        "model": "fcsmp:tutorial/skip",
+        "bedrock_identifier": "fcsmp:tutorial_skip",
+        "display_name": "Tutorial - Skip",
+        "bedrock_options": {
+          "icon": "fcsmp:tutorial_skip"
+        }
+      }
+    ],
+    "minecraft:iron_sword": [
+      {
+        "type": "definition",
+        "model": "fcsmp:tutorial/combat",
+        "bedrock_identifier": "fcsmp:tutorial_combat",
+        "display_name": "Tutorial Combat",
+        "bedrock_options": {
+          "icon": "fcsmp:tutorial_combat"
+        }
+      }
+    ],
+    "minecraft:emerald": [
+      {
+        "type": "definition",
+        "model": "fcsmp:tutorial/economy",
+        "bedrock_identifier": "fcsmp:tutorial_economy",
+        "display_name": "Tutorial Economy",
+        "bedrock_options": {
+          "icon": "fcsmp:tutorial_economy"
+        }
+      }
+    ],
+    "minecraft:clock": [
+      {
+        "type": "definition",
+        "model": "fcsmp:tutorial/countdown",
+        "bedrock_identifier": "fcsmp:tutorial_countdown",
+        "display_name": "Tutorial Countdown",
+        "bedrock_options": {
+          "icon": "fcsmp:tutorial_countdown"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:paper": [
+      {
+        "type": "definition",
+        "model": "fc_smp:gui/previous_page",
+        "bedrock_identifier": "fc_smp:previous_page",
+        "display_name": "Previous Page",
+        "bedrock_options": {
+          "icon": "fc_smp:previous_page"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "fc_smp:gui/next_page",
+        "bedrock_identifier": "fc_smp:next_page",
+        "display_name": "Next Page",
+        "bedrock_options": {
+          "icon": "fc_smp:next_page"
+        }
+      }
+    ]
+  }
+}

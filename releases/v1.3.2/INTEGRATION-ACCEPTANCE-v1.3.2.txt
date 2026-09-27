@@ -1,0 +1,27 @@
+﻿FC-SMP Server Pack v1.3.2 - Integration Acceptance
+Date: 2026-09-27
+Platform: Purpur 1.21.11-2568
+Status: REHEARSAL PASS / LIVE NOT YET CHANGED
+
+Integrated candidates:
+- FactionCrates 2.5.1 Vote visuals + branded sound hooks
+- DohviFCTokens 1.2.0 visuals
+- FCFactions 1.5.0-RC2 visuals
+- DohviTutorial 1.11.10 visuals/audio, EssentialsX owns /kit
+- FC-StaffToolkit 1.0.0
+- FCHolograms 1.1.0
+
+Acceptance evidence:
+- Geyser registered 50 custom items on two consecutive boots.
+- Crate displays: 4 updated, 0 spawned, 0 stale/duplicate removed.
+- Spawn presentation: 4 stations, 0 stale entities, 4 managed lights.
+- Targeted ERROR/Exception scan: none.
+- Java pack HTTP fetch matched expected SHA-1.
+- TPS 20.0; 10s tick median 0.9ms, p95 1.5ms, max 7.3ms.
+- Java/Bedrock model + texture static reference audit: 0 broken references.
+- 49 pack-defined Geyser identifiers/icons unique; no duplicates.
+- Clean shutdown and persistence restart passed.
+
+Important:
+- This acceptance is server/rehearsal validation. Physical Java and Bedrock client visual/audio acceptance must still be checked before live enforcement.
+- Live FC SMP was not modified by this rehearsal.

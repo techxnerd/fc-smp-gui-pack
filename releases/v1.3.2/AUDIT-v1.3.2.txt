@@ -1,0 +1,11 @@
+FC-SMP Server Pack v1.3.2
+Java files: 134 | unpacked bytes: 75952
+Bedrock files: 53 | unpacked bytes: 27070
+Coverage: Staff Toolkit, GUI pagination, Faction/War/Elite/Vote crates + keys, FC Token coin + 9 TokenShop products, Faction Core/Obsidian + 9 Factions GUI icons, 6 Tutorial visuals.
+Audio: 8 FC-SMP Java namespaced sound events reference vanilla Minecraft sound events; tested plugin hooks retain quiet vanilla underlays for Bedrock/Geyser fallback.
+Optimization: shader-safe default; no FC Pose core entity shader override; Rollback Wand remains normalized to 16x16; no duplicate Tutorial assets.
+Tutorial: visual/audio hooks rebased to DohviTutorial 1.11.10 while preserving EssentialsX-owned /kit behavior.
+Java SHA-1: c702a1c8941862d6f94888547dd6d444a9bf25dc
+Java SHA-256: 1b4c5ae46b94422b4f5f6f3aa1afce89fbe439fbe64cd8e81d0c62471b8d9db2
+resource-pack-id: f0efa043-ce00-529e-843f-99e348598d2f
+Bedrock SHA-256: 2ee5e7b20c94b4aced5b7a90c6eb3ba547492322149ac9c749061a22533796c4

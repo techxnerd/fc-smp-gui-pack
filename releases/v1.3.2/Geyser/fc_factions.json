@@ -1,0 +1,124 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:crying_obsidian": [
+      {
+        "type": "definition",
+        "model": "fcsmp:factions/core",
+        "bedrock_identifier": "fcsmp:faction_core",
+        "display_name": "Faction Core",
+        "bedrock_options": {
+          "icon": "fcsmp:faction_core"
+        }
+      }
+    ],
+    "minecraft:obsidian": [
+      {
+        "type": "definition",
+        "model": "fcsmp:factions/obsidian",
+        "bedrock_identifier": "fcsmp:faction_obsidian",
+        "display_name": "Faction Obsidian",
+        "bedrock_options": {
+          "icon": "fcsmp:faction_obsidian"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "fcsmp:factions/defense",
+        "bedrock_identifier": "fcsmp:faction_defense",
+        "display_name": "Faction Defense",
+        "bedrock_options": {
+          "icon": "fcsmp:faction_defense"
+        }
+      }
+    ],
+    "minecraft:white_banner": [
+      {
+        "type": "definition",
+        "model": "fcsmp:factions/overview",
+        "bedrock_identifier": "fcsmp:faction_overview",
+        "display_name": "Faction Overview",
+        "bedrock_options": {
+          "icon": "fcsmp:faction_overview"
+        }
+      }
+    ],
+    "minecraft:experience_bottle": [
+      {
+        "type": "definition",
+        "model": "fcsmp:factions/progression",
+        "bedrock_identifier": "fcsmp:faction_progression",
+        "display_name": "Faction Progression",
+        "bedrock_options": {
+          "icon": "fcsmp:faction_progression"
+        }
+      }
+    ],
+    "minecraft:nether_star": [
+      {
+        "type": "definition",
+        "model": "fcsmp:factions/missions",
+        "bedrock_identifier": "fcsmp:faction_missions",
+        "display_name": "Faction Missions",
+        "bedrock_options": {
+          "icon": "fcsmp:faction_missions"
+        }
+      }
+    ],
+    "minecraft:iron_sword": [
+      {
+        "type": "definition",
+        "model": "fcsmp:factions/war_room",
+        "bedrock_identifier": "fcsmp:faction_war_room",
+        "display_name": "War Room",
+        "bedrock_options": {
+          "icon": "fcsmp:faction_war_room"
+        }
+      }
+    ],
+    "minecraft:gold_ingot": [
+      {
+        "type": "definition",
+        "model": "fcsmp:factions/leaderboards",
+        "bedrock_identifier": "fcsmp:faction_leaderboards",
+        "display_name": "Faction Leaderboards",
+        "bedrock_options": {
+          "icon": "fcsmp:faction_leaderboards"
+        }
+      }
+    ],
+    "minecraft:skeleton_skull": [
+      {
+        "type": "definition",
+        "model": "fcsmp:factions/bounties",
+        "bedrock_identifier": "fcsmp:faction_bounties",
+        "display_name": "Bounties",
+        "bedrock_options": {
+          "icon": "fcsmp:faction_bounties"
+        }
+      }
+    ],
+    "minecraft:anvil": [
+      {
+        "type": "definition",
+        "model": "fcsmp:factions/upgrades",
+        "bedrock_identifier": "fcsmp:faction_upgrades",
+        "display_name": "Faction Upgrades",
+        "bedrock_options": {
+          "icon": "fcsmp:faction_upgrades"
+        }
+      }
+    ],
+    "minecraft:amethyst_shard": [
+      {
+        "type": "definition",
+        "model": "fcsmp:factions/cosmetics",
+        "bedrock_identifier": "fcsmp:faction_cosmetics",
+        "display_name": "Faction Cosmetics",
+        "bedrock_options": {
+          "icon": "fcsmp:faction_cosmetics"
+        }
+      }
+    ]
+  }
+}
